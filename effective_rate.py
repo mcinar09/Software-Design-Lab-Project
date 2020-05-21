@@ -21,6 +21,7 @@ def comparing_annual_yield(account_1_r, account_1_n, account_2_r, account_2_n):
 
     account_1 = (effectiverate(account_1_r, account_1_n))
     account_2 = (effectiverate(account_2_r, account_2_n))
+    account_2 = round(account_2, 4)
     if account_1 > account_2:
         choice_1 = print("First investment account is better with an annual yield of " +
                          str(account_1) + "%.")
