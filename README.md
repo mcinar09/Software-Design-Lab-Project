@@ -31,7 +31,7 @@ The function, `comparing_annual_yield` takes four parameters:
 
 The third function, `future_value_of_annuity` computes the the future amount for an investor who plans to save money for some particular expenses.
 
-An annuity is a savings investment plan in which the investor makes a regular, fixed payment into a compound - interest account where the interest rate doesn't change during the term of the investment.  This differs from a regular compound - interest account in that you don't invest an entire amount at the beginning of the investment period, but rather the investment up into smaller payments.For example, you might pay \\$500  annually for 3 years into an account that yields 6\% interest compounded annually. The total amount accumulated (payments plus interest) is called the future value of the annuity.
+An annuity is a savings investment plan in which the investor makes a regular, fixed payment into a compound - interest account where the interest rate doesn't change during the term of the investment.  This differs from a regular compound - interest account in that you don't invest an entire amount at the beginning of the investment period, but rather the investment up into smaller payments.For example, you might pay \$500  annually for 3 years into an account that yields 6\% interest compounded annually. The total amount accumulated (payments plus interest) is called the future value of the annuity.
 
 Annuities are often used by individuals or families to save money to pay things like college expenses, vacations, or retirements.
 
